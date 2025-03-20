@@ -238,7 +238,7 @@ svg * {
   --color-dark-40: #666666;
   --color-gray-50: #7e7e81;
   --color-gray-60: #98989a;
-  --color-accent: #ffd11a;
+  --color-accent: #0071f1;
   --color-red: #ff5500;
   --gradient: linear-gradient(45deg, var(--color-dark-15) 64%, var(--color-accent) 136%);
   --border: 0.0625rem solid var(--color-dark-15);
@@ -740,22 +740,22 @@ button[aria-label]::before {
   }
 }
 .icon--yellow-arrow::after {
-  background-image: url('../../icons/arrow-top-right_yellow.svg');
+  background-image: url('../../../../icons/arrow-top-right_yellow.svg');
 }
 .icon--yellow-arrow::before {
-  background-image: url('/../../icons/arrow-top-right_yellow.svg');
+  background-image: url('/../../../../icons/arrow-top-right_yellow.svg');
 }
 .icon--yellow-eye::after {
-  background-image: url('./../../icons/eye_yellow.svg');
+  background-image: url('./../../../../icons/eye_yellow.svg');
 }
 .icon--yellow-eye::before {
-  background-image: url('../../../icons/eye_yellow.svg');
+  background-image: url('../../../../../icons/eye_yellow.svg');
 }
 .icon--gray-arrow-down::after {
-  background-image: url('/../../../icons/arrow-down_gray.svg');
+  background-image: url('/../../../../../icons/arrow-down_gray.svg');
 }
 .icon--gray-arrow-down::before {
-  background-image: url('./../../../icons/arrow-down_gray.svg');
+  background-image: url('./../../../../../icons/arrow-down_gray.svg');
 }
 
 .logo {
