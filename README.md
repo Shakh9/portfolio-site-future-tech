@@ -2,7 +2,9 @@
 
 ## Link
 
-[[Live Demo](https://shakh9.github.io/portfolio-site-future-tech/)]
+<a href="https://shakh9.github.io/portfolio-site-future-tech/" target="_blank">
+  Live Demo
+</a>
 
 ## Technologies
 
@@ -14,6 +16,4 @@
 
 <p align="center">
   <img src="images/future-tech-preview.png" alt="Screenshot" width="600">
-  <br>
-  <em>Screenshot of the project</em>
 </p>
