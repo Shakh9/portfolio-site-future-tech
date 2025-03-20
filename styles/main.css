@@ -1846,10 +1846,10 @@ button[aria-label]::before {
   --size: 1.5rem;
   width: var(--size);
   height: var(--size);
-  background: url('../../icons/star_gray.svg') center/contain no-repeat;
+  background: url('../img2/star_gray.svg') center/contain no-repeat;
 }
 .rating-view__star.is-active {
-  background-image: url('../img/star_yellow.svg');
+  background-image: url('../img2/star_yellow.svg');
 }
 @media (width <= 90.06125rem) {
   .rating-view__star {
