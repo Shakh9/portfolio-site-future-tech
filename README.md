@@ -2,7 +2,7 @@
 
 ## Link
 
-[Live Demo]https://shakh9.github.io/portfolio-site-future-tech/
+[[Live Demo](https://shakh9.github.io/portfolio-site-future-tech/)]
 
 ## Technologies
 
